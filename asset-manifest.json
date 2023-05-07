@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TelRan-portfolio/static/css/main.7d613204.css",
+    "main.js": "/TelRan-portfolio/static/js/main.455663c2.js",
+    "static/media/john_avatar.jpg": "/TelRan-portfolio/static/media/john_avatar.95a0e0ee5480ade96e4c.jpg",
+    "index.html": "/TelRan-portfolio/index.html",
+    "main.7d613204.css.map": "/TelRan-portfolio/static/css/main.7d613204.css.map",
+    "main.455663c2.js.map": "/TelRan-portfolio/static/js/main.455663c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d613204.css",
+    "static/js/main.455663c2.js"
+  ]
+}
